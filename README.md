@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Science Asignment
+Data Science Project
